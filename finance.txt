@@ -2,7 +2,7 @@ Setup bank account
 Setup Paypal account
 Integreat gateway payments
 Contact Payfort
------
+Amazon pay
 Watch webinars of Dr.Abel
 Complete all assigments
 -----
